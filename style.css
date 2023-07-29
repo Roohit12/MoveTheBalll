@@ -1,0 +1,28 @@
+#container {
+    position: absolute;
+    display: flex;
+    border: 1px solid red;
+    width: 1000px;
+    height: 730px;
+}
+
+#ball {
+    display: flex;
+
+    background-color: #a900ffb3;
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    left: 1px;
+    top: 1px;
+    float: left;
+    display: inline;
+    box-sizing: border-box;
+    padding-top: 60px;
+    padding-left: 53px;
+
+
+
+
+}
